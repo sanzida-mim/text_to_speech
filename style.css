@@ -50,7 +50,7 @@ textarea::placeholder {
     width: 600px;
     display: flex;
     align-items: center;
-    gap: 20 px;
+    gap: 20px;
 }
 
 button {
@@ -64,6 +64,7 @@ button {
     cursor: pointer;
     display: flex;
     align-items: center;
+    height: 50px;
 }
 
 button img {
@@ -84,6 +85,6 @@ select {
     background-image: url(images/dropdown.png);
     background-repeat: no-repeat;
     background-size: 15px;
-    background-position-x: calc(100% - 20%);
-    background-position-y: 20%;
+    background-position-x: calc(100% - 5%);
+    background-position-y: 50%;
 }
